@@ -9,7 +9,6 @@ FASES DO PROJETO
 
 - Levantamento de requisitos
 - Identificação de entidades e relacionamentos
-- Modelo E-R
 - Diagrama E-R
 - Normalização
 - Implementação
@@ -37,9 +36,65 @@ REGRAS DO NEGÓCIO
 
 IDENTIFICAÇÃO ENTIDADES, ATRIBUTOS E RELACIONAMENTOS
 
-- ENTIDADES
+**ENTIDADES**
 
 - Alunos
+- Professor
+- Disciplina
+- Curso
+- Departamento
+- Turma
+- Histórico
+
+**RELACIONAMENTOS**
+
+- Aluno está matriculado em curso
+- Aluno cursa disciplina
+- Aluno realizou disciplina
+- Disciplina Pertence a curso
+- Professor ministra disciplina
+- Professor pertence a departamento
+- Departamento é responsável por disciplina
+- Departamento controla curso
+- Disciplina depende de disciplina
+
+**ATRIBUTOS**
+
+- Número de matricula (RA)
+- Nome
+- Sobrenome
+- CPF
+- Endereço
+- cod_curso
+- Telefone
+- Filiação
+- Aluno-Cont
+- Codigo do curso
+- Código do professor
+- Nome
+- Codigo do departamento
+- Sobrenome
+- Status
+- Código da disciplina
+- Nome da disciplina
+- Descrição curricular
+- Código do departamento
+- Número de alunos
+- Carga-Horaria
+- Codigo do curso
+- Nome do curso
+- Código do departamento
+- Código do departamento
+- Nome do departamento
+- Cod_Historico
+- Notas
+- Média
+- Frequência
+- Período
+- RA
+- Cod_disciplina
+- Co_turma
+- Período
 
 
 
