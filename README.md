@@ -85,18 +85,41 @@
 **MODELO CONCEITUAL**
 
 
+
 ![Modelagem Conceitual](https://github.com/ramirand10/BD_Projeto_Faculdade/blob/master/Modelo_Conceitual.png)
+
 
 
 **MODELO LÓGICO**
 
+
+
 ![Modelagem Lógica](https://github.com/ramirand10/BD_Projeto_Faculdade/blob/master/Modelo_L%C3%B3gico.png)
 
 
-**Modelo Físico**
+
+**MODELO FÍSICO**
+
+
 
 [Scripts da Modelagem Física](https://github.com/ramirand10/BD_Projeto_Faculdade/blob/master/SCRIPT_BD_CRIACAO.sql)
 
+
+### EXECUTANDO OS TESTES
+
+- Testando o banco com inserções de registros(tuplas) e consultas com junções.
+
+[insert into](https://github.com/ramirand10/BD_Projeto_Faculdade/blob/master/SCRIPT_BD_INSERT.sql)
+[inner join](https://github.com/ramirand10/BD_Projeto_Faculdade/blob/master/SCRIPT_BD_JOIN.sql)
+
+### CONSTRUÍDO COM
+
+- [brModelo](http://dev.rbtech.info/download-brmodelo-portable/) - Usado para gerar a modelagem de dados
+- [MySQL](https://www.mysql.com/) - Implementação e gerencimento do Banco de Dados
+
+### AGRADECIMENTOS
+
+- Bóson Treinamentos
 
 
  
