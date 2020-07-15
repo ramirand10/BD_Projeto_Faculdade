@@ -93,4 +93,10 @@
 ![Modelagem Lógica](https://github.com/ramirand10/BD_Projeto_Faculdade/blob/master/Modelo_L%C3%B3gico.png)
 
 
+**Modelo Físico**
+
+[Scripts da Modelagem Física](https://github.com/ramirand10/BD_Projeto_Faculdade/blob/master/SCRIPT_BD_CRIACAO.sql)
+
+
+
  
