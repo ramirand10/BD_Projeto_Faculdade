@@ -110,6 +110,7 @@
 - Testando o banco com inserções de registros(tuplas) e consultas com junções.
 
 [insert into](https://github.com/ramirand10/BD_Projeto_Faculdade/blob/master/SCRIPT_BD_INSERT.sql)
+
 [inner join](https://github.com/ramirand10/BD_Projeto_Faculdade/blob/master/SCRIPT_BD_JOIN.sql)
 
 ### CONSTRUÍDO COM
