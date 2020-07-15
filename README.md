@@ -99,6 +99,8 @@
 ### DIAGRAMA E-R
 
 
+![Modelagem Conceitual](https://github.com/ramirand10/BD_Projeto_Faculdade/blob/master/Modelo_Conceitual.png)
+
 
 
 
