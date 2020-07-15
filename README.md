@@ -5,7 +5,7 @@
 
 - Realizar controle centralizado de alunos, professores, cursos, disciplinas, histórico escolar e turmas.
 
-FASES DO PROJETO
+### FASES DO PROJETO
 
 - Levantamento de requisitos
 - Identificação de entidades e relacionamentos
@@ -14,7 +14,7 @@ FASES DO PROJETO
 - Implementação
 - Testes Básicos
 
-REGRAS DO NEGÓCIO
+### REGRAS DO NEGÓCIO
 
 - Um aluno só pode estar matriculado em um curso por vez
 - Alunos Possuem um código de identificação(RA)
@@ -34,7 +34,7 @@ REGRAS DO NEGÓCIO
 - Cada professor é vinculado a um departamento
 - Professores são identificados por um código de professor
 
-IDENTIFICAÇÃO ENTIDADES, ATRIBUTOS E RELACIONAMENTOS
+### IDENTIFICAÇÃO ENTIDADES, ATRIBUTOS E RELACIONAMENTOS
 
 **ENTIDADES**
 
@@ -96,7 +96,7 @@ IDENTIFICAÇÃO ENTIDADES, ATRIBUTOS E RELACIONAMENTOS
 - Co_turma
 - Período
 
-DIAGRAMA E-R
+### DIAGRAMA E-R
 
 
 
