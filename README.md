@@ -60,8 +60,8 @@
 
 **ATRIBUTOS**
 
-- Número de matricula (RA)
-- Nome
+- Número de matricula (RA)   
+- Nome                        
 - Sobrenome
 - CPF
 - Endereço
@@ -78,30 +78,19 @@
 - Código da disciplina
 - Nome da disciplina
 - Descrição curricular
-- Código do departamento
-- Número de alunos
-- Carga-Horaria
-- Codigo do curso
-- Nome do curso
-- Código do departamento
-- Código do departamento
-- Nome do departamento
-- Cod_Historico
-- Notas
-- Média
-- Frequência
-- Período
-- RA
-- Cod_disciplina
-- Co_turma
-- Período
+
 
 ### DIAGRAMA E-R
+
+**MODELO CONCEITUAL**
 
 
 ![Modelagem Conceitual](https://github.com/ramirand10/BD_Projeto_Faculdade/blob/master/Modelo_Conceitual.png)
 
 
+**MODELO LÓGICO**
+
+![Modelagem Lógica](https://github.com/ramirand10/BD_Projeto_Faculdade/blob/master/Modelo_L%C3%B3gico.png)
 
 
  
